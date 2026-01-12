@@ -1,0 +1,9 @@
+{
+  "name": "com.easyeda2kicad",
+  "description": "Native host for easyeda2kicad Chrome extension",
+  "path": "/ABSOLUTE/PATH/TO/easyeda2kicad/native_host.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://__EXTENSION_ID__"
+  ]
+}
